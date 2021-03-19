@@ -1,0 +1,1 @@
+To run the program a 'train' and a 'test' folder are required. The 'train' folder should contain images featuring the desired object. The program will then create a model and look at images in the 'test' folder to see if they contain the object.
